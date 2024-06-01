@@ -383,7 +383,5 @@ plt.xlabel('Epoch')
 plt.ylabel('Loss')
 plt.show()
 
-# %% [markdown]
-# ## Predictions
 
 
